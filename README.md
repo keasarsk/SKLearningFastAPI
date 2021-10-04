@@ -1,7 +1,8 @@
-# SK_PY_Framework_FastAPI
+# SK_PY_Framework_FastAPI 学习日志
 
 #### 介绍
 PY_Framework_FastAPI
+FastAPI的学习记录.py文件
 
 #### 软件架构
 软件架构说明
